@@ -35,7 +35,7 @@ Based on a given CSV file, this little example script can modify settings on the
 4. Run the script by
 
     ```sh
-    python3 enable_ips.py
+    python3 mgr.py
     ```
 
 The script will automatically enable IPS in prevent mode on the listed computers if the column events is `0`.
